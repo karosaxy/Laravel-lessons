@@ -1,0 +1,1 @@
+<h2>{{ $coolString }}</h2>
